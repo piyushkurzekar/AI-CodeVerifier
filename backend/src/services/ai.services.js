@@ -78,8 +78,6 @@ const model = genAI.getGenerativeModel({
 
                 Would you like any adjustments based on your specific needs? 🚀 
     `
-
-
 });
 
 
